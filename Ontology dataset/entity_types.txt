@@ -1,0 +1,8 @@
+﻿objDoor
+objWall
+objFPS
+objFA
+objFE
+objFC
+objFP
+objSCV

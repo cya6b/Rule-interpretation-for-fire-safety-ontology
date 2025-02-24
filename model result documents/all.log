@@ -1,0 +1,95 @@
+2024-07-17 14:06:51,322 [MainThread  ] [INFO ]  Datasets: data/xiaofang/training_set.json, data/xiaofang/train.json
+2024-07-17 14:06:51,323 [MainThread  ] [INFO ]  Model type: spert
+2024-07-17 14:06:57,484 [MainThread  ] [INFO ]  Relation type count: 7
+2024-07-17 14:06:57,484 [MainThread  ] [INFO ]  Entity type count: 9
+2024-07-17 14:06:57,484 [MainThread  ] [INFO ]  Entities:
+2024-07-17 14:06:57,484 [MainThread  ] [INFO ]  No Entity=0
+2024-07-17 14:06:57,484 [MainThread  ] [INFO ]  objDoor=1
+2024-07-17 14:06:57,484 [MainThread  ] [INFO ]  objWall=2
+2024-07-17 14:06:57,484 [MainThread  ] [INFO ]  objFPS=3
+2024-07-17 14:06:57,484 [MainThread  ] [INFO ]  objFA=4
+2024-07-17 14:06:57,485 [MainThread  ] [INFO ]  objFE=5
+2024-07-17 14:06:57,485 [MainThread  ] [INFO ]  objFC=6
+2024-07-17 14:06:57,492 [MainThread  ] [INFO ]  objFP=7
+2024-07-17 14:06:57,492 [MainThread  ] [INFO ]  objSCV=8
+2024-07-17 14:06:57,492 [MainThread  ] [INFO ]  Relations:
+2024-07-17 14:06:57,492 [MainThread  ] [INFO ]  No Relation=0
+2024-07-17 14:06:57,492 [MainThread  ] [INFO ]  RAbove=1
+2024-07-17 14:06:57,492 [MainThread  ] [INFO ]  RInterlinked=2
+2024-07-17 14:06:57,492 [MainThread  ] [INFO ]  RSeparation=3
+2024-07-17 14:06:57,492 [MainThread  ] [INFO ]  RIntersection=4
+2024-07-17 14:06:57,492 [MainThread  ] [INFO ]  RContain=5
+2024-07-17 14:06:57,492 [MainThread  ] [INFO ]  RSpatial=6
+2024-07-17 14:06:57,492 [MainThread  ] [INFO ]  Dataset: train
+2024-07-17 14:06:57,493 [MainThread  ] [INFO ]  Document count: 600
+2024-07-17 14:06:57,493 [MainThread  ] [INFO ]  Relation count: 930
+2024-07-17 14:06:57,493 [MainThread  ] [INFO ]  Entity count: 1649
+2024-07-17 14:06:57,493 [MainThread  ] [INFO ]  Dataset: valid
+2024-07-17 14:06:57,493 [MainThread  ] [INFO ]  Document count: 800
+2024-07-17 14:06:57,493 [MainThread  ] [INFO ]  Relation count: 1215
+2024-07-17 14:06:57,493 [MainThread  ] [INFO ]  Entity count: 2162
+2024-07-17 14:06:57,493 [MainThread  ] [INFO ]  Updates per epoch: 150
+2024-07-17 14:06:57,493 [MainThread  ] [INFO ]  Updates total: 9000
+2024-07-17 14:06:59,774 [MainThread  ] [INFO ]  Train epoch: 0
+2024-07-17 14:07:36,964 [MainThread  ] [INFO ]  Train epoch: 1
+2024-07-17 14:08:11,613 [MainThread  ] [INFO ]  Train epoch: 2
+2024-07-17 14:08:46,098 [MainThread  ] [INFO ]  Train epoch: 3
+2024-07-17 14:09:20,485 [MainThread  ] [INFO ]  Train epoch: 4
+2024-07-17 14:09:55,157 [MainThread  ] [INFO ]  Train epoch: 5
+2024-07-17 14:10:29,778 [MainThread  ] [INFO ]  Train epoch: 6
+2024-07-17 14:11:04,473 [MainThread  ] [INFO ]  Train epoch: 7
+2024-07-17 14:11:39,419 [MainThread  ] [INFO ]  Train epoch: 8
+2024-07-17 14:12:13,937 [MainThread  ] [INFO ]  Train epoch: 9
+2024-07-17 14:12:48,398 [MainThread  ] [INFO ]  Train epoch: 10
+2024-07-17 14:13:22,774 [MainThread  ] [INFO ]  Train epoch: 11
+2024-07-17 14:13:57,490 [MainThread  ] [INFO ]  Train epoch: 12
+2024-07-17 14:14:31,580 [MainThread  ] [INFO ]  Train epoch: 13
+2024-07-17 14:15:06,045 [MainThread  ] [INFO ]  Train epoch: 14
+2024-07-17 14:15:40,676 [MainThread  ] [INFO ]  Train epoch: 15
+2024-07-17 14:16:15,352 [MainThread  ] [INFO ]  Train epoch: 16
+2024-07-17 14:16:49,898 [MainThread  ] [INFO ]  Train epoch: 17
+2024-07-17 14:17:24,744 [MainThread  ] [INFO ]  Train epoch: 18
+2024-07-17 14:17:59,322 [MainThread  ] [INFO ]  Train epoch: 19
+2024-07-17 14:18:33,636 [MainThread  ] [INFO ]  Train epoch: 20
+2024-07-17 14:19:08,250 [MainThread  ] [INFO ]  Train epoch: 21
+2024-07-17 14:19:42,699 [MainThread  ] [INFO ]  Train epoch: 22
+2024-07-17 14:20:17,611 [MainThread  ] [INFO ]  Train epoch: 23
+2024-07-17 14:20:52,110 [MainThread  ] [INFO ]  Train epoch: 24
+2024-07-17 14:21:26,806 [MainThread  ] [INFO ]  Train epoch: 25
+2024-07-17 14:22:01,470 [MainThread  ] [INFO ]  Train epoch: 26
+2024-07-17 14:22:35,863 [MainThread  ] [INFO ]  Train epoch: 27
+2024-07-17 14:23:10,561 [MainThread  ] [INFO ]  Train epoch: 28
+2024-07-17 14:23:44,949 [MainThread  ] [INFO ]  Train epoch: 29
+2024-07-17 14:24:19,635 [MainThread  ] [INFO ]  Train epoch: 30
+2024-07-17 14:24:55,010 [MainThread  ] [INFO ]  Train epoch: 31
+2024-07-17 14:25:29,311 [MainThread  ] [INFO ]  Train epoch: 32
+2024-07-17 14:26:05,326 [MainThread  ] [INFO ]  Train epoch: 33
+2024-07-17 14:26:40,737 [MainThread  ] [INFO ]  Train epoch: 34
+2024-07-17 14:27:14,768 [MainThread  ] [INFO ]  Train epoch: 35
+2024-07-17 14:27:49,199 [MainThread  ] [INFO ]  Train epoch: 36
+2024-07-17 14:28:23,512 [MainThread  ] [INFO ]  Train epoch: 37
+2024-07-17 14:28:58,072 [MainThread  ] [INFO ]  Train epoch: 38
+2024-07-17 14:29:32,986 [MainThread  ] [INFO ]  Train epoch: 39
+2024-07-17 14:30:08,288 [MainThread  ] [INFO ]  Train epoch: 40
+2024-07-17 14:30:43,696 [MainThread  ] [INFO ]  Train epoch: 41
+2024-07-17 14:31:17,922 [MainThread  ] [INFO ]  Train epoch: 42
+2024-07-17 14:31:52,546 [MainThread  ] [INFO ]  Train epoch: 43
+2024-07-17 14:32:28,319 [MainThread  ] [INFO ]  Train epoch: 44
+2024-07-17 14:33:02,859 [MainThread  ] [INFO ]  Train epoch: 45
+2024-07-17 14:33:37,668 [MainThread  ] [INFO ]  Train epoch: 46
+2024-07-17 14:34:12,087 [MainThread  ] [INFO ]  Train epoch: 47
+2024-07-17 14:34:46,595 [MainThread  ] [INFO ]  Train epoch: 48
+2024-07-17 14:35:21,639 [MainThread  ] [INFO ]  Train epoch: 49
+2024-07-17 14:35:56,034 [MainThread  ] [INFO ]  Train epoch: 50
+2024-07-17 14:36:30,595 [MainThread  ] [INFO ]  Train epoch: 51
+2024-07-17 14:37:05,223 [MainThread  ] [INFO ]  Train epoch: 52
+2024-07-17 14:37:39,839 [MainThread  ] [INFO ]  Train epoch: 53
+2024-07-17 14:38:15,088 [MainThread  ] [INFO ]  Train epoch: 54
+2024-07-17 14:38:49,002 [MainThread  ] [INFO ]  Train epoch: 55
+2024-07-17 14:39:24,041 [MainThread  ] [INFO ]  Train epoch: 56
+2024-07-17 14:39:58,919 [MainThread  ] [INFO ]  Train epoch: 57
+2024-07-17 14:40:33,513 [MainThread  ] [INFO ]  Train epoch: 58
+2024-07-17 14:41:07,753 [MainThread  ] [INFO ]  Train epoch: 59
+2024-07-17 14:41:42,094 [MainThread  ] [INFO ]  Evaluate: valid
+2024-07-17 14:42:36,332 [MainThread  ] [INFO ]  Logged in: data/log/duie_train\2024-07-17_14 06 50916098
+2024-07-17 14:42:36,333 [MainThread  ] [INFO ]  Saved in: data/save/duie_train\2024-07-17_14 06 50916098
